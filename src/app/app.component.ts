@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular-web-storm';
+  title = 'My first Angular-web-storm: Author: Maariselvam Subramanian';
 }
